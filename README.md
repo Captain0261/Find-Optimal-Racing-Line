@@ -8,7 +8,7 @@ This repository provides a optimization-based trajectory planning pipeline for a
 
 ## Dataset & Acknowledgements
 The track dataset utilized in this project for testing and visualization are sourced from the open-source Formula Student Driverless (FSD) Racetrack Dataset.
-We highly appreciate the contribution of the original authors to the autonomous racing community:
-Dataset Repository: iv461/fsd_racetrack_dataset
-(Please ensure you have cloned or downloaded the dataset into the ⁠dataset/⁠ directory to run the examples seamlessly).
+We highly appreciate the contribution of the original authors to the autonomous racing community.
+
+Dataset Repository: iv461/fsd_racetrack_dataset.
 
