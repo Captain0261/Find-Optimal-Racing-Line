@@ -106,10 +106,10 @@ def generate_velocity_profile(opt_x, opt_y, a_lat_max=10, a_acc=5, a_dec=8, v_ma
 
 
 if __name__ == "__main__":
-    with open('E:/桌面/AI-racing/fsd_racetrack_dataset-main/dataset/cone_map_1.yaml', 'r') as cone:
+    with open('track_dataset/cone_map_1.yaml', 'r') as cone:
         cone_data = yaml.safe_load(cone)
 
-    with open('E:/桌面/AI-racing/fsd_racetrack_dataset-main/dataset/boundaries_1.yaml', 'r') as boundary:
+    with open('track_dataset/boundaries_1.yaml', 'r') as boundary:
         boundary_data = yaml.safe_load(boundary)
 
     left_bound, right_bound = draw_track(cone_data, boundary_data)
