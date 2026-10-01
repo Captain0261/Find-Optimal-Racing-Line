@@ -1,0 +1,12 @@
+{
+  "width": 1.2,
+  "length": 0.0,
+  "safety_margin": 0.2,
+  "wheelbase": 1.6,
+  "max_steer": 0.6,
+  "max_steer_rate": 1.2,
+  "a_lat_max": 10.0,
+  "a_acc": 5.0,
+  "a_dec": 8.0,
+  "v_max": 25.0
+}
